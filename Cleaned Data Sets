@@ -1,0 +1,23 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+plt.close("all")
+import numpy as np
+import os
+os.chdir(r"C:\Users\prabh\MyFirstProject\Final Project\eda-checkpoint-PJPanesar")
+
+
+print(os.getcwd())
+print(os.listdir())
+
+Mo_Cataract = pd.read_csv("Cataract Diagnosed Medicare 65 and older (Ethnicity).csv")
+Mo_AMD = pd.read_csv("AMD Medicare (Ethnicity).csv")
+Mo_Glaucoma = pd.read_csv("Glaucoma Medicare (Ethnicity).csv")
+Mo_Cornea = pd.read_csv("Other Cornea Disease Medicare (Ethnicity).csv")
+Mo_Retina = pd.read_csv("Other Retina Disease Medicare (Ethnicity).csv")
+
+
+National_Cataract = pd.read_csv("National Catract Diagnosed by State (Ethnicity).csv")
+National_AMD = pd.read_csv("AMD NAtional by State Medicare (Ethnicity).csv")
+National_Glaucoma = pd.read_csv("Glaucoma National Medicare by State (Ethnicity).csv")
+National_Cornea = pd.read_csv("National Corea Disease by State Medicare (Ethnicity).csv")
+National_Retina = pd.read_csv("National Retina Disease by State Medicare (Ethnicity).csv")

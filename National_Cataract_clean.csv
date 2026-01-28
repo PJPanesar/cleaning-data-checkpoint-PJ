@@ -1,0 +1,15 @@
+YearStart,YearEnd,LocationAbbr,LocationDesc,DataSource,Age,Sex,Race_Ethnicity,Risk_Factor_Repsonse,Data_Value_Unit,Data_Value,Low_Confidence_Limit,High_Confidence_Limit,Sample_Size
+2022,2022,MO,Missouri,Medicare FFS MA,All Ages,Both sexes,"Hispanic, any race",Total,%,30.85,30.09,31.62,4350.0
+2022,2022,US,National,Medicare FFS MA,All Ages,Both sexes,"White, non-Hispanic",Total,%,35.4,35.39,35.42,14280000.0
+2022,2022,MO,Missouri,Medicare FFS MA,All Ages,Both sexes,All races,Total,%,35.97,35.88,36.06,390500.0
+2022,2022,US,National,Medicare FFS MA,All Ages,Both sexes,"Black, non-Hispanic",Total,%,31.13,31.09,31.16,1732000.0
+2022,2022,MO,Missouri,Medicare FFS MA,All Ages,Both sexes,"White, non-Hispanic",Total,%,36.37,36.27,36.46,349400.0
+2022,2022,US,National,Medicare FFS MA,All Ages,Both sexes,Asian,Total,%,35.76,35.69,35.83,683300.0
+2022,2022,US,National,Medicare FFS MA,All Ages,Both sexes,Other,Total,%,36.8,36.66,36.94,165200.0
+2022,2022,MO,Missouri,Medicare FFS MA,All Ages,Both sexes,Asian,Total,%,37.13,36.14,38.13,3430.0
+2022,2022,MO,Missouri,Medicare FFS MA,All Ages,Both sexes,North American Native,Total,%,26.62,24.47,28.85,430.0
+2022,2022,MO,Missouri,Medicare FFS MA,All Ages,Both sexes,Other,Total,%,38.6,37.02,40.2,1410.0
+2022,2022,US,National,Medicare FFS MA,All Ages,Both sexes,All races,Total,%,34.61,34.6,34.63,18560000.0
+2022,2022,US,National,Medicare FFS MA,All Ages,Both sexes,North American Native,Total,%,28.75,28.55,28.95,57500.0
+2022,2022,US,National,Medicare FFS MA,All Ages,Both sexes,"Hispanic, any race",Total,%,31.82,31.78,31.86,1641000.0
+2022,2022,MO,Missouri,Medicare FFS MA,All Ages,Both sexes,"Black, non-Hispanic",Total,%,32.7,32.4,33.0,31470.0

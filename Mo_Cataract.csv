@@ -1,0 +1,18 @@
+YearStart,YearEnd,LocationAbbr,LocationDesc,DataSource,Age,Sex,Race_Ethnicity,Data_Value_Unit,Data_Value,Low_Confidence_Limit,High_Confidence_Limit,Sample_Size
+2022.0,2022.0,MO,Missouri,Medicare FFS MA,65 years and older,Both sexes,"Hispanic, any race",%,34.87,33.98,35.76,3890.0
+2022.0,2022.0,MO,Missouri,Medicare FFS MA,65 years and older,Both sexes,Other,%,41.45,39.74,43.17,1340.0
+2022.0,2022.0,MO,Missouri,Medicare FFS MA,65 years and older,Both sexes,"Black, non-Hispanic",%,37.75,37.39,38.1,27120.0
+2022.0,2022.0,MO,Missouri,Medicare FFS MA,65 years and older,Both sexes,North American Native,%,33.55,30.71,36.49,360.0
+2022.0,2022.0,MO,Missouri,Medicare FFS MA,65 years and older,Both sexes,"White, non-Hispanic",%,39.39,39.28,39.49,331700.0
+2022.0,2022.0,MO,Missouri,Medicare FFS MA,65 years and older,Both sexes,All races,%,39.21,39.11,39.31,367700.0
+2022.0,2022.0,MO,Missouri,Medicare FFS MA,65 years and older,Both sexes,Asian,%,39.8,38.74,40.86,3300.0
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
